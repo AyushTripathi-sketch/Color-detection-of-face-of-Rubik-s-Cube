@@ -1,1 +1,2 @@
 # Color-detection-of-face-of-Rubik-s-Cube
+This project is to detect the state of a cube at a particular time which can be used to solve a Rubik's cube.It uses Open CV to detect the color of each small square on a face of Rubik's cube.It first converts a RGB image to HSV(hue-saturation-value) image.You have to set the Range of HSV values as per the color of your Rubik's cube.You can refer to this site http://alloyui.com/examples/color-picker/hsv for the hsv values.
